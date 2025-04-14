@@ -1,3 +1,5 @@
 - [Netlify](https://skiper-deploy.netlify.app)
 - [Vercel](https://deploy-practice-mu.vercel.app)
 - [Firebase](https://skiper-deploy.web.app)
+- [Surge](https://skiper-deploy.surge.sh)
+- [Render](https://deploy-practice-r3np.onrender.com)

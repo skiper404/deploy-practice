@@ -72,7 +72,7 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
       </li>
       <li>
         <div
-          class="bg-gradient-to-br from-stone-200 to-pink-500 rounded-xl p-0.5 hover:from-teal-500 hover:to-lime-700"
+          class="bg-gradient-to-br from-stone-200 to-pink-500 rounded-xl p-0.5 hover:from-stone-400 hover:to-pink-700"
         >
           <div class="rounded-xl bg-gray-900">
             <div
@@ -86,11 +86,11 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
       </li>
       <li>
         <div
-          class="bg-gradient-to-br from-teal-300 to-lime-500 rounded-xl p-0.5 hover:from-teal-500 hover:to-lime-700"
+          class="bg-gradient-to-br from-lime-100 to-lime-300 rounded-xl p-0.5 hover:from-lime-300 hover:to-lime-500"
         >
           <div class="rounded-xl bg-gray-900">
             <div
-              class="flex items-center justify-center gap-1 text-3xl text-center bg-gradient-to-tl from-teal-300 to-lime-600 bg-clip-text text-transparent rounded-xl bg-gray-900 p-1"
+              class="flex items-center justify-center gap-1 text-3xl text-center bg-gradient-to-tl from-lime-200 to-lime-500 bg-clip-text text-transparent rounded-xl bg-gray-900 p-1"
             >
               <span>Surge</span>
               <CheckCircleIcon class="size-10 text-lime-500" />
@@ -100,11 +100,11 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
       </li>
       <li>
         <div
-          class="bg-gradient-to-br from-teal-300 to-lime-500 rounded-xl p-0.5 hover:from-teal-500 hover:to-lime-700"
+          class="bg-gradient-to-br from-blue-300 to-blue-500 rounded-xl p-0.5 hover:from-teal-500 hover:to-lime-700"
         >
           <div class="rounded-xl bg-gray-900">
             <div
-              class="flex items-center justify-center gap-1 text-3xl text-center bg-gradient-to-tl from-teal-300 to-lime-600 bg-clip-text text-transparent rounded-xl bg-gray-900 p-1"
+              class="flex items-center justify-center gap-1 text-3xl text-center bg-gradient-to-tl from-blue-200 to-blue-500 bg-clip-text text-transparent rounded-xl bg-gray-900 p-1"
             >
               <span>CloudFlare</span>
               <CheckCircleIcon class="size-10 text-lime-500" />
