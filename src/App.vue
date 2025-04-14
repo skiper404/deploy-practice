@@ -72,11 +72,11 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
       </li>
       <li>
         <div
-          class="bg-gradient-to-br from-teal-300 to-lime-500 rounded-xl p-0.5 hover:from-teal-500 hover:to-lime-700"
+          class="bg-gradient-to-br from-stone-200 to-pink-500 rounded-xl p-0.5 hover:from-teal-500 hover:to-lime-700"
         >
           <div class="rounded-xl bg-gray-900">
             <div
-              class="flex items-center justify-center gap-1 text-3xl text-center bg-gradient-to-tl from-teal-300 to-lime-600 bg-clip-text text-transparent rounded-xl bg-gray-900 p-1"
+              class="flex items-center justify-center gap-1 text-3xl text-center bg-gradient-to-tl from-stone-200 to-pink-600 bg-clip-text text-transparent rounded-xl bg-gray-900 p-1"
             >
               <span>Render</span>
               <CheckCircleIcon class="size-10 text-lime-500" />
