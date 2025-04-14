@@ -100,7 +100,7 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
       </li>
       <li>
         <div
-          class="bg-gradient-to-br from-blue-300 to-blue-500 rounded-xl p-0.5 hover:from-teal-500 hover:to-lime-700"
+          class="bg-gradient-to-br from-blue-300 to-blue-500 rounded-xl p-0.5 hover:from-blue-500 hover:to-blue-700"
         >
           <div class="rounded-xl bg-gray-900">
             <div
