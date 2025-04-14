@@ -1,3 +1,3 @@
-Netlify - https://skiper-deploy.netlify.app
-Vercel - https://deploy-practice-mu.vercel.app
-Firebace - https://skiper-deploy.web.app
+- [Netlify](https://skiper-deploy.netlify.app)
+- [Vercel](https://deploy-practice-mu.vercel.app)
+- [Firebase](https://skiper-deploy.web.app)
