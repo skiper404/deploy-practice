@@ -37,7 +37,6 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
             >
               <span>Netlify</span>
               <CheckCircleIcon class="size-10 text-lime-500" />
-              <CheckCircleIcon class="size-10 text-lime-500" />
             </div>
           </div>
         </div>
