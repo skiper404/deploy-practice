@@ -33,9 +33,10 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
         >
           <div class="rounded-xl bg-gray-900">
             <div
-              class="text-3xl text-center bg-gradient-to-tl from-teal-300 to-lime-600 bg-clip-text text-transparent rounded-xl bg-gray-900 p-1"
+              class="flex items-center justify-center gap-1 text-3xl text-center bg-gradient-to-tl from-teal-300 to-lime-600 bg-clip-text text-transparent rounded-xl bg-gray-900 p-1"
             >
-              Netlify
+              <span>Netlify</span>
+              <CheckCircleIcon class="size-10 text-lime-500" />
             </div>
           </div>
         </div>
