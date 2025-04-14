@@ -3,3 +3,4 @@
 - [Firebase](https://skiper-deploy.web.app)
 - [Surge](https://skiper-deploy.surge.sh)
 - [Render](https://deploy-practice-r3np.onrender.com)
+- [CloudFlare](https://deploy-practice.pages.dev/)
