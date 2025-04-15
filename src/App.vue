@@ -23,7 +23,7 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
               class="text-3xl text-center bg-gradient-to-tl bg-clip-text from-red-600 to-yellow-500 text-transparent rounded-xl p-1 flex items-center justify-center gap-1"
             >
               <span>Firebace</span>
-              <CheckCircleIcon class="size-10 text-lime-500" />
+              <CheckCircleIcon class="size-10 text-blue-500" />
             </div>
           </div>
         </div>
@@ -51,7 +51,7 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
               class="flex items-center justify-center gap-1 text-3xl text-center text-transparent bg-gradient-to-tl from-blue-700 to-violet-600 bg-clip-text p-1"
             >
               <span> Vercel </span>
-              <CheckCircleIcon class="size-10 text-lime-500" />
+              <CheckCircleIcon class="size-10 text-blue-500" />
             </div>
           </div>
         </div>
@@ -65,7 +65,7 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
               class="flex items-center justify-center gap-1 text-3xl text-transparent bg-gradient-to-bl from-zinc-300 to-zinc-600 bg-clip-text p-1"
             >
               <span>GitHub</span>
-              <CheckCircleIcon class="size-10 text-lime-500" />
+              <CheckCircleIcon class="size-10 text-blue-500" />
             </div>
           </div>
         </div>
@@ -93,7 +93,7 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
               class="flex items-center justify-center gap-1 text-3xl text-center bg-gradient-to-tl from-lime-200 to-lime-500 bg-clip-text text-transparent rounded-xl bg-gray-900 p-1"
             >
               <span>Surge</span>
-              <CheckCircleIcon class="size-10 text-lime-500" />
+              <CheckCircleIcon class="size-10 text-blue-500" />
             </div>
           </div>
         </div>
@@ -107,7 +107,7 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
               class="flex items-center justify-center gap-1 text-3xl text-center bg-gradient-to-tl from-blue-200 to-blue-500 bg-clip-text text-transparent rounded-xl bg-gray-900 p-1"
             >
               <span>CloudFlare</span>
-              <CheckCircleIcon class="size-10 text-lime-500" />
+              <CheckCircleIcon class="size-10 text-blue-500" />
             </div>
           </div>
         </div>
