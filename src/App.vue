@@ -79,7 +79,7 @@ import { CheckCircleIcon } from '@heroicons/vue/24/outline';
               class="flex items-center justify-center gap-1 text-3xl text-center bg-gradient-to-tl from-stone-200 to-pink-600 bg-clip-text text-transparent rounded-xl bg-gray-900 p-1"
             >
               <span>Render</span>
-              <CheckCircleIcon class="size-10 text-lime-500" />
+              <CheckCircleIcon class="size-10 text-blue-500" />
             </div>
           </div>
         </div>
